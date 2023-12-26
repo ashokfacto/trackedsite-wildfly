@@ -1,0 +1,1 @@
+importScripts("https://fct-gcdn.mobilytixdigital.com/prod/sw-mdm.js")
